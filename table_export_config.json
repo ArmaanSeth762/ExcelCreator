@@ -1,0 +1,33 @@
+{
+    "font": {
+      "family": "Calibri"
+    },
+    "header": {
+      "backgroundColor": "0033A0",  
+      "fontColor": "FFFFFF",       
+      "fontSize": 11,
+      "bold": true                  
+    },
+    "body": {
+      "fontColor": "000000",       
+      "fontSize": 10,
+      "evenRowBackgroundColor": "FFFFFF",  
+      "oddRowBackgroundColor": "FFFFFF"   
+    },
+    "alignment": {
+      "horizontal": "left",
+      "vertical": "center",
+      "wrapText": true             
+    },
+    "headeralignment": {
+      "horizontal": "left", 
+      "vertical": "center"
+    },
+    "cell": {
+      "borders": true,             
+      "borderStyle": "thin",
+      "borderColor": "000000",
+      "padding": 5,
+      "wrapThreshold": 50
+    }
+}
