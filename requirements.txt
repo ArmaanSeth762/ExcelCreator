@@ -2,4 +2,6 @@ matplotlib
 pandas
 lxml
 openpyxl
-ipykernelpyperclip
+beautifulsoup4
+xlsxwriter
+pyperclip

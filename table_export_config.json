@@ -21,13 +21,14 @@
     },
     "headeralignment": {
       "horizontal": "left", 
-      "vertical": "center"
+      "vertical": "center",
+      "wrapText": true   
     },
     "cell": {
       "borders": true,             
       "borderStyle": "thin",
       "borderColor": "000000",
       "padding": 5,
-      "wrapThreshold": 50
+      "wrapThreshold": 30
     }
 }
